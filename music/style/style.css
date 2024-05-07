@@ -1,0 +1,142 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: "pt sans Narrow", sans-serif;
+}
+
+.img_1  {
+    width: 100%;
+}
+
+
+
+h1 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 230px;
+    left: 710px;
+    font-size: 180px;
+}
+
+
+
+section h2 {
+    font-size: 5rem;
+    margin: 25px;
+}
+
+section p {
+    font-size: 30px;
+    margin: 30px;
+}
+
+.pedro {
+    background: linear-gradient(to right, #f75860, #d1066b);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    margin: 0px 0px 0px 30px;
+}
+
+
+
+.caja_1 {
+    display: flex;
+    padding: 10rem;
+}
+
+.text {
+    margin: 50px;
+}
+
+.imagen {
+    flex: 1;
+    margin-left: 50px;
+}
+
+button {
+    padding: 20px;
+    margin: 30px;
+    border-radius: 2rem;
+    width: 14rem;
+    height: 4rem;
+    color:white;
+    background: #f75860;
+    border: none;
+}
+
+.img_2 {
+    width: 100%;
+    padding: 0px;
+}
+
+.texto_footer {
+    position: absolute;
+    top: 220rem;
+    left: 60rem;
+}
+
+
+footer h2 {
+    font-size: 5rem;
+    margin: 25px;
+    color: white;
+}
+
+footer p {
+    font-size: 30px;
+    margin: 30px;
+    color: white;
+}
+
+
+
+footer .img_2{
+    padding: 0px;
+}
+
+
+.div_final {
+ 
+    display: flex;
+    height: 500px;
+    translate: 200px;
+   
+
+}
+
+.contenido {
+    margin: 50px 0 0 0;
+    
+    
+}
+
+
+.contenido p {
+    display: flex;
+    font-size: small;
+    margin: 0px 50px 0px 100px;
+    padding:12px;
+    text-align: left;
+}
+
+.barra {
+    margin-left: 110px;
+}
+
+
+hr {
+   margin: 100px 0 0 0;
+}
+
+
+footer {
+    background-color: #f75860;
+}
+
+.final {
+    display: flex;
+    padding: 0px;
+    margin: 0px 20px 0 270px;
+    translate: 0px -70px;
+
+}
